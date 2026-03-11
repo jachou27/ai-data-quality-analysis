@@ -33,6 +33,12 @@ The notebook also proposes a **data weighting framework** that incorporates:
 
 to reduce the impact of noisy labels.
 
+GitHub:  
+https://github.com/jachou27/ai-data-quality-analysis/blob/main/AI_Preference_Data_Analysis.ipynb
+
+Run in Colab:  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jachou27/ai-data-quality-analysis/blob/main/AI_Preference_Data_Analysis.ipynb)
+
 ---
 
 ### 2. SNLI Label Noise and Annotator Reliability Analysis
@@ -56,6 +62,12 @@ The notebook introduces a **row-weighting framework** based on:
 - number of annotations
 
 to improve the quality of training data used for machine learning models.
+
+GitHub:  
+https://github.com/jachou27/ai-data-quality-analysis/blob/main/SNLI_Label_Noise_Annotator_Reliability_Analysis.ipynb
+
+Run in Colab:  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jachou27/ai-data-quality-analysis/blob/main/SNLI_Label_Noise_Annotator_Reliability_Analysis.ipynb)
 
 ---
 
